@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/"><button type="button" class="nes-btn is-primary">Home</button></router-link>
       <router-link to="/qrcode"><button type="button" class="nes-btn is-success">QRCode</button></router-link>
+      <router-link to="/decodeQrcode"><button type="button" class="nes-btn is-success">DecodeQrcode</button></router-link>
     </div>
     <router-view />
   </div>
